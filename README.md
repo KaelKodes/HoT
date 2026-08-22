@@ -2,7 +2,8 @@
   <img src="title-gold.png" alt="Houses of Tamriel" width="720">
 </p>
 
-Houses of Tamriel is one persistent Morrowind world. Towns, guilds, and offices belong to players. There is one shard. Character creation happens in the game, not in the launcher.
+Houses of Tamriel is one persistent Morrowind world. Towns, guilds, and offices belong to players.
+There is one server at this time.
 
 You need Morrowind GOTY. The launcher installs everything else.
 

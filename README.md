@@ -2,10 +2,12 @@
   <img src="title-gold.png" alt="Houses of Tamriel" width="720">
 </p>
 
+**0.0.2**
+
 Houses of Tamriel is one persistent Morrowind world. Towns, guilds, and offices belong to players.
 There is one server at this time.
 
-You need Morrowind GOTY. The launcher installs everything else.
+You need Morrowind GOTY. The launcher installs everything else. Character creation happens in the game, not in the launcher.
 
 ## Play
 

@@ -1,7 +1,7 @@
 {
     "version":  "0.0.8",
     "built":  "2026-08-26T04:55:17Z",
-    "lockDigest":  "fd0a65edbaf99b7590ccf50b28ff99b4bb57034e2ae57dfaa9d989c4f3326a65",
+    "lockDigest":  "3d9e90957b4217662693bc0e104588b47eb5fc82b6a1bf9bef39ad6a6a51188d",
     "urlBase":  "https://downloads.celtictrinitystudios.com/",
     "packs":  [
                   {
@@ -14,8 +14,8 @@
                   {
                       "id":  "content",
                       "file":  "hot-content-0.0.8.zip",
-                      "bytes":  680535116,
-                      "sha256":  "ccd03ce8e6c527675a7a50615128cba12968aedc217ac9b518d6ec6f2b57672b",
+                      "bytes":  680539397,
+                      "sha256":  "7dac0542e9af7d2eef25ce0c0358604da1b3ff0953bf4187ffea9eb2dda8663f",
                       "url":  "https://downloads.celtictrinitystudios.com/hot-content-0.0.8.zip"
                   },
                   {

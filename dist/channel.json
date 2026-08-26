@@ -1,0 +1,29 @@
+{
+    "version":  "0.0.8",
+    "built":  "2026-08-26T04:55:17Z",
+    "lockDigest":  "fd0a65edbaf99b7590ccf50b28ff99b4bb57034e2ae57dfaa9d989c4f3326a65",
+    "urlBase":  "https://celtictrinitystudios.com/Houses_of_Tamriel/",
+    "packs":  [
+                  {
+                      "id":  "openmw",
+                      "file":  "hot-openmw-0.0.8.zip",
+                      "bytes":  65669878,
+                      "sha256":  "07fc70fa4ab8e450c41fa7254390344da355a1a5e9f0021bb79b256a9b938c41",
+                      "url":  "https://celtictrinitystudios.com/Houses_of_Tamriel/hot-openmw-0.0.8.zip"
+                  },
+                  {
+                      "id":  "content",
+                      "file":  "hot-content-0.0.8.zip",
+                      "bytes":  680535116,
+                      "sha256":  "ccd03ce8e6c527675a7a50615128cba12968aedc217ac9b518d6ec6f2b57672b",
+                      "url":  "https://celtictrinitystudios.com/Houses_of_Tamriel/hot-content-0.0.8.zip"
+                  },
+                  {
+                      "id":  "thirdparty",
+                      "file":  "hot-thirdparty-0.0.8.zip",
+                      "bytes":  7440082364,
+                      "sha256":  "1e8d04b6bcdbca2137e70aade56faa84c026278cbe78f465f98587440959f5ff",
+                      "url":  "https://celtictrinitystudios.com/Houses_of_Tamriel/hot-thirdparty-0.0.8.zip"
+                  }
+              ]
+}

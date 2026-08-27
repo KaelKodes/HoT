@@ -1,29 +1,41 @@
 {
     "version":  "0.0.8",
-    "built":  "2026-08-26T04:55:17Z",
-    "lockDigest":  "3d9e90957b4217662693bc0e104588b47eb5fc82b6a1bf9bef39ad6a6a51188d",
+    "built":  "2026-08-27T05:11:59Z",
+    "lockDigest":  "36fee4670d46d923f095713bfd7c0ed2db2ff6576bf18818bb7212f45a27171e",
     "urlBase":  "https://downloads.celtictrinitystudios.com/",
+    "mirrors":  [
+                    "http://152.86.63.18/houses/"
+                ],
     "packs":  [
                   {
                       "id":  "openmw",
                       "file":  "hot-openmw-0.0.8.zip",
-                      "bytes":  65669878,
-                      "sha256":  "07fc70fa4ab8e450c41fa7254390344da355a1a5e9f0021bb79b256a9b938c41",
-                      "url":  "https://downloads.celtictrinitystudios.com/hot-openmw-0.0.8.zip"
+                      "bytes":  65586354,
+                      "sha256":  "2747db097d338b22a7f6645639008a79e1473dad25985dcaf6ee50a7e0ece5c1",
+                      "url":  "https://downloads.celtictrinitystudios.com/hot-openmw-0.0.8.zip",
+                      "mirrors":  [
+                                      "http://152.86.63.18/houses/hot-openmw-0.0.8.zip"
+                                  ]
                   },
                   {
                       "id":  "content",
                       "file":  "hot-content-0.0.8.zip",
-                      "bytes":  680539397,
-                      "sha256":  "7dac0542e9af7d2eef25ce0c0358604da1b3ff0953bf4187ffea9eb2dda8663f",
-                      "url":  "https://downloads.celtictrinitystudios.com/hot-content-0.0.8.zip"
+                      "bytes":  680541822,
+                      "sha256":  "5b97f16fa67f58c3164ecd3f4595b790b00bdc3b4df6dd2d9c7acbf233fb9a1a",
+                      "url":  "https://downloads.celtictrinitystudios.com/hot-content-0.0.8.zip",
+                      "mirrors":  [
+                                      "http://152.86.63.18/houses/hot-content-0.0.8.zip"
+                                  ]
                   },
                   {
                       "id":  "thirdparty",
                       "file":  "hot-thirdparty-0.0.8.zip",
                       "bytes":  7440082364,
                       "sha256":  "1e8d04b6bcdbca2137e70aade56faa84c026278cbe78f465f98587440959f5ff",
-                      "url":  "https://downloads.celtictrinitystudios.com/hot-thirdparty-0.0.8.zip"
+                      "url":  "https://downloads.celtictrinitystudios.com/hot-thirdparty-0.0.8.zip",
+                      "mirrors":  [
+                                      "http://152.86.63.18/houses/hot-thirdparty-0.0.8.zip"
+                                  ]
                   }
               ]
 }

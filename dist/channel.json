@@ -1,6 +1,6 @@
 {
     "version":  "0.0.8",
-    "built":  "2026-08-27T05:11:59Z",
+    "built":  "2026-08-27T06:47:37Z",
     "lockDigest":  "36fee4670d46d923f095713bfd7c0ed2db2ff6576bf18818bb7212f45a27171e",
     "urlBase":  "https://downloads.celtictrinitystudios.com/",
     "mirrors":  [
@@ -10,8 +10,8 @@
                   {
                       "id":  "openmw",
                       "file":  "hot-openmw-0.0.8.zip",
-                      "bytes":  65586354,
-                      "sha256":  "2747db097d338b22a7f6645639008a79e1473dad25985dcaf6ee50a7e0ece5c1",
+                      "bytes":  65602841,
+                      "sha256":  "8584f53fffb46172190d2dd8b11f0e88c91973e685d9ca2a2296072bf2d2947b",
                       "url":  "https://downloads.celtictrinitystudios.com/hot-openmw-0.0.8.zip",
                       "mirrors":  [
                                       "http://152.86.63.18/houses/hot-openmw-0.0.8.zip"
@@ -21,7 +21,7 @@
                       "id":  "content",
                       "file":  "hot-content-0.0.8.zip",
                       "bytes":  680541822,
-                      "sha256":  "5b97f16fa67f58c3164ecd3f4595b790b00bdc3b4df6dd2d9c7acbf233fb9a1a",
+                      "sha256":  "8bbc26048d84d63a60916f148a663f2f537cbb76bd2d1d90a1103c175c76503b",
                       "url":  "https://downloads.celtictrinitystudios.com/hot-content-0.0.8.zip",
                       "mirrors":  [
                                       "http://152.86.63.18/houses/hot-content-0.0.8.zip"
